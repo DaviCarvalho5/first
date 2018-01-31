@@ -1,7 +1,4 @@
 # Teste 01
 My first test of the GitHub
 
-![Novo Repositório no Github](https://imgur.com/IThpkuB)
-    
-    
-    
+![Preview](https://imgur.com/IThpkuB "Print 01")
