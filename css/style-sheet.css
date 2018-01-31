@@ -1,0 +1,20 @@
+body
+{
+	background-color: #f78fb3;
+}
+
+div.centro
+{
+
+	font-family:consolas;
+	color: #FFFFFF;
+	text-align: center;
+	width: 500px;
+	height: 500px;
+	background-color: #f8a5c2;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	
+}
