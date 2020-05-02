@@ -1,0 +1,42 @@
+* {
+	font-family: monospace;
+	color: #FFFFFF;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #f78fb3;
+	display: grid;
+	height: 100vh;
+	justify-content: center;
+	align-content: center;
+}
+
+h1 {
+	margin-bottom: 0.5em;
+}
+
+.centro {
+	text-align: center;
+	font-size: 1.2em;
+
+	width: 70vh;
+	height: 70vh;
+	background-color: #f8a5c2;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+#centro__botao {
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-top: 0.5em;
+}
+
+#centro__botao:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
